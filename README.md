@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/tamadevnz" target="blank"><img src="https://img.shields.io/twitter/follow/tamadevnz?logo=twitter&style=for-the-badge" alt="tamadevnz" /></a> </p>
 
-- 🔭 I’m currently working on [HamLog](https://github.com/Tama1978/hamlog)
+- 🔭 I’m currently working on [CommTrack](https://github.com/Tama1978/CommTrack)
 
-- 🌱 I’m currently learning **Various Web Frameworks**
+- 🌱 I’m currently learning **Various Web Frameworks & Python Libraries**
 
 - 👯 I’m looking to collaborate on **Anything really!**
 
