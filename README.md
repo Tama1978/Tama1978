@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Anything really!**
 
-- 🤝 I’m looking for help with [PTFS FlightWare](https://github.com/PTFS-FlightWare)
+- 🤝 I’m looking for help with [PTFS FlightWare](https://github.com/CommTrack)
 
 - 👨‍💻 All of my public projects are available at [https://tamasystems.nz](https://tamasystems.nz)
 
